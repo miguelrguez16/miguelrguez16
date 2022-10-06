@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel</h1>
+<h1 align="center">Hi 👋, I'm Miguel ; ) </h1>
 <h3 align="center">A passionate student from Spain</h3>
 
 - 🌱 I’m currently learning **Backend Development (Docker, java, MongoDB, postgreSQL) and finishing my degree in computer Science**
