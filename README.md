@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel ; ) </h1>
 <h3 align="center">A passionate student from Spain</h3>
+<h7 align="center"> ETH &#2666;<h7>
 
 - 🌱 I’m currently learning **Backend Development (Docker, java, MongoDB, postgreSQL), BlockChain (Ethereum, Smart Contracts, Vyper, Solidity, ...) and finishing my degree in computer Science**
 
